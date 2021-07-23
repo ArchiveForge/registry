@@ -21,11 +21,11 @@ Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-a
 Open using <a href="https://nmrium.github.io/#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(if nmrium.github.io exists ... not working either!)
 
 
-### <a id="chemobjectName_hashCodeOfCyclopropane"></a>My Heading ###
 
 This is supposed to be a anchor from the zenodo preview page
 
-## detail on menthol 
+## details on menthol
+## 
 Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/menthol/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ???)
 
 ## more tests
