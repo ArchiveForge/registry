@@ -9,7 +9,7 @@ remove this <a href=""><object data="https://img.shields.io/endpoint.svg?url=htt
 Derived data (if any):
 
 * <a href=""><object data="https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)"></object></a> (Same badge as in Zenodo preview page:) 
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object>Two links...</a>
 
 Visualize:
 
