@@ -4,11 +4,13 @@ Reference to Zenodo record ...
 
 remove this <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemNoData.json&link=https://chemedata.org&link=https://nmredata.org"></object></a> (Same badge as in Zenodo preview page:)
 
-<a href=""><object data="https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)"></object></a> (Same badge as in Zenodo preview page:) 
+[![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes) (Same badge as in Zenodo preview page:) 
+
+[https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
 Derived data (if any):
 
-* <a href=""><object data="https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)"></object></a> (Same badge as in Zenodo preview page:) 
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object>Two links...</a>
 * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object>Two links...</a>
 
 Visualize:
