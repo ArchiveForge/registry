@@ -6,8 +6,8 @@ Reference to Zenodo record ...
 
 Derived data (if any):
 
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
 
 Visualize:
 
@@ -21,6 +21,9 @@ Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-a
 Open using <a href="https://nmrium.github.io/#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(if nmrium.github.io exists ... not working either!)
 
 ## Menthol
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+
+To be removed: 
 
 Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/menthol/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ???)
 
