@@ -1,8 +1,12 @@
 This is the empty full register page of 
 archiveforge.github.io/registry/chemistry/v0.1/doi_Prefix/doi_Suffix
 
-https://toto.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json
 
+THIS WORKS
+
+https://toto.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json
+
+   
 https://toto.archiveforge.org/  added CNAME for it to archiveforge.github.io
 
 
