@@ -2,11 +2,13 @@
 Reference to Zenodo record ...
 ## Cyclopropanes
 
-<a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a> (Same badge as in Zenodo preview page:)
+remove this <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemNoData.json&link=https://chemedata.org&link=https://nmredata.org"></object></a> (Same badge as in Zenodo preview page:)
+
+<a href=""><object data="https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)"></object></a> (Same badge as in Zenodo preview page:) 
 
 Derived data (if any):
 
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+* <a href=""><object data="https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)"></object></a> (Same badge as in Zenodo preview page:) 
 * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
 
 Visualize:
