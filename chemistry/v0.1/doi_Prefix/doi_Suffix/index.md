@@ -8,7 +8,7 @@ Temporary demo because spectra cannot remain on github, we have to manage so tha
 
 
 
-## detail on cyclopropanes
+## Cyclopropanes
 
 
 Demo links href badge to chemedata and nmredata for demo !!
