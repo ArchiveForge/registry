@@ -1,19 +1,16 @@
-Derived data of Zenodo record...
-Demo ArchiveForge page of archiveforge.github.io/registry/chemistry/v0.1/doi_Prefix/doi_Suffix
-archiveForge/registry
-
-Here, can use href and open new page with target blank...
-
-Temporary demo because spectra cannot remain on github, we have to manage so that they open from zenodo. All spectra can be opened using <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium</a> (thats working but not completely because removed the jcamp of cyclopropanes !)
-
-
-
+## Original submission
+Reference to Zenodo record ...
 ## Cyclopropanes
+Same badge as in Zenodo preview page:
 <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
-Derived:
+
+Derived data (if any):
+
 * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object>Derived</a>
 * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object>Second derived</a>
+
 Visualize:
+
 Open with:
 
 
@@ -50,3 +47,12 @@ All spectra can be opened using <a href="https://www.nmrium.org/nmrium#?toc=http
 Two links href badge to chemedata and one spectrum !!
 Will see if works with a nmrium on github.io
 <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx"></object></a> 
+
+
+
+Demo ArchiveForge page of archiveforge.github.io/registry/chemistry/v0.1/doi_Prefix/doi_Suffix
+archiveForge/registry
+
+Here, can use href and open new page with target blank...
+
+Temporary demo because spectra cannot remain on github, we have to manage so that they open from zenodo. All spectra can be opened using <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium</a> (thats working but not completely because removed the jcamp of cyclopropanes !)
