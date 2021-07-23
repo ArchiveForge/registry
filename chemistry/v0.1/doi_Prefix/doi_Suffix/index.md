@@ -11,9 +11,9 @@ Temporary demo because spectra cannot remain on github, we have to manage so tha
 ## Cyclopropanes
 
 Demo links href badge to chemedata and nmredata for demo !!
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
-  * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object>Derived</a>
-  * <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+<a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object>Derived</a>
+* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object>Second derived</a>
  Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not working yet because cyclopropane.jdx is not on the github site... !)
 
 Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ... not working either!)
