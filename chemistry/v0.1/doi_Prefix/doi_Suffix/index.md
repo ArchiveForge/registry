@@ -1,15 +1,32 @@
+Derived data of Zenodo record...
 Demo ArchiveForge page of archiveforge.github.io/registry/chemistry/v0.1/doi_Prefix/doi_Suffix
+archiveForge/registry
+
+Here, can use href and open new page with target blank...
+
+Temporary demo because spectra cannot remain on github, we have to manage so that they open from zenodo. All spectra can be opened using <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium</a> (thats working but not completely because removed the jcamp of cyclopropanes !)
+
+
 
 ## detail on cyclopropanes
 
-the spectrum : [./1h.json](./1h.json)
 
- Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not working yet... !)
+Demo links href badge to chemedata and nmredata for demo !!
+<a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
 
-Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats working ... not working either!)
+ Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not working yet because cyclopropane.jdx is not on the github site... !)
+
+Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ... not working either!)
 
 Open using <a href="https://nmrium.github.io/#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(if nmrium.github.io exists ... not working either!)
 
+
+# chemobjectName_hashCodeOfCyclopropane
+
+This is supposed to be a anchor from the zenodo preview page
+
+## detail on menthol 
+Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/menthol/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ???)
 
 ## more tests
 
