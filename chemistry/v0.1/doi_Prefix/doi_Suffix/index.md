@@ -2,11 +2,7 @@
 Reference to Zenodo record ...
 ## Cyclopropanes
 
-remove this <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemNoData.json&link=https://chemedata.org&link=https://nmredata.org"></object></a> (Same badge as in Zenodo preview page:)
-
 [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes) (Same badge as in Zenodo preview page:) 
-
-[https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
 Derived data (if any):
 
@@ -25,7 +21,6 @@ Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-a
 Open using <a href="https://nmrium.github.io/#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(if nmrium.github.io exists ... not working either!)
 
 ## Menthol
-* <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/chemWithStructure.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
 
 To be removed: 
 
