@@ -1,0 +1,1 @@
+Visualize:https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/api/files/38ae1238-fd69-4a3d-92c4-4f3760cbfca9/menthol.jdx
