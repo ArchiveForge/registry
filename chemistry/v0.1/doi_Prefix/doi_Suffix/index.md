@@ -11,14 +11,7 @@ Derived data (if any):
 
 Visualize:
 
-Open with:
-
-
-Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not working yet because cyclopropane.jdx is not on the github site... !)
-
-Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats  ... not working either!)
-
-Open using <a href="https://nmrium.github.io/#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(if nmrium.github.io exists ... not working either!)
+Open with NMRium see other file...
 
 ## Menthol
 
